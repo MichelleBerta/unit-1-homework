@@ -1,6 +1,6 @@
 # Refactoring A Website
 
-This first homework assignment.was to refactor an existing website. Refactoring a website makes it more efficient and easier to maintain.
+The purpose of the first homework assignment was to refactor an existing website. Refactoring a website makes it more efficient and easier to maintain.
 
 The first steps taken in refactoring this webiste was to change the html tags to semantic tags. Semantic tags clearly label each part of a website making it easier for both people and browsers to identify.
 
